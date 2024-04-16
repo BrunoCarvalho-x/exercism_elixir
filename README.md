@@ -4,7 +4,7 @@ Este repositório contém uma coleção de exercícios para praticar a linguagem
 
 ## Testes
 
-Cada exercício neste repositório vem com testes integrados para verificar a corretude da sua solução. Você pode executar os testes usando o comando `mix test` seguido do caminho para o arquivo de teste do exercício específico.
+Cada exercício neste repositório vem com testes integrados. Você pode executar os testes usando o comando `mix test` seguido do caminho para o arquivo de teste do exercício específico.
 
 Por exemplo, para executar os testes para o exercício `hello-world`, você pode usar o seguinte comando:
 
