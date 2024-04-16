@@ -1,5 +1,3 @@
-require IEx
-
 defmodule LasagnaTest do
   use ExUnit.Case
 
