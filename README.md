@@ -1,21 +1,13 @@
-# Exercices
+# Exercícios de Elixir
 
-**TODO: Add description**
+Este repositório contém uma coleção de exercícios para praticar a linguagem de programação Elixir. Os exercícios estão disponíveis em [Exercism](https://exercism.org/tracks/elixir/exercises).
 
-## Installation
+## Testes
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `exercices` to your list of dependencies in `mix.exs`:
+Cada exercício neste repositório vem com testes integrados para verificar a corretude da sua solução. Você pode executar os testes usando o comando `mix test` seguido do caminho para o arquivo de teste do exercício específico.
 
-```elixir
-def deps do
-  [
-    {:exercices, "~> 0.1.0"}
-  ]
-end
+Por exemplo, para executar os testes para o exercício `hello-world`, você pode usar o seguinte comando:
+
+```bash
+mix test test/hello_world_test.exs
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/exercices>.
-
